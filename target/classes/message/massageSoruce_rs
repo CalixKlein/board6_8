@@ -1,0 +1,22 @@
+# login.jsp
+message.user.login.title=авторизоваться
+message.user.login.id=Я БЫ
+message.user.login.password=пароль
+message.user.login.loginBtn=авторизоваться
+
+message.user.login.language.en=английский
+message.user.login.language.ko=корейский язык
+message.user.login.language.jp=японский язык
+
+# getBoardList.jsp
+message.board.list.mainTitle=Почта Список
+message.board.list.welcomeMsg=Сэр! Добро пожаловать на доску объявлений.
+message.board.list.search.condition.title=заглавие
+message.board.list.search.condition.content=Содержание
+message.board.list.search.condition.btn=Поиск
+message.board.list.table.head.seq=номер
+message.board.list.table.head.title=заглавие
+message.board.list.table.head.writer=Писатель
+message.board.list.table.head.regDate=Дата регистрации
+message.board.list.table.head.cnt=взгляды
+message.board.list.link.insertBoard=Новая почтовая регистрация

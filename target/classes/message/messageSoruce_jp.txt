@@ -1,0 +1,22 @@
+# login.jsp
+message.user.login.title=로그인
+message.user.login.id=아이디
+message.user.login.password=비밀번호
+message.user.login.loginBtn=로그인
+
+message.user.login.language.en=영어
+message.user.login.language.ko=한글
+message.user.login.language.jp=일어
+
+# getBoardList.jsp
+message.board.list.mainTitle=投稿 リスト
+message.board.list.welcomeMsg=様！ 掲示板へようこそ。
+message.board.list.search.condition.title=タイトル
+message.board.list.search.condition.content=内容
+message.board.list.search.condition.btn=検索
+message.board.list.table.head.seq=番号
+message.board.list.table.head.title=タイトル
+message.board.list.table.head.writer=作者
+message.board.list.table.head.regDate=登録日
+message.board.list.table.head.cnt=ヒット
+message.board.list.link.insertBoard=新しい投稿登録
